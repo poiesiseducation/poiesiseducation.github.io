@@ -2,7 +2,7 @@
 
 This is where the poiesis scratch editor is hosted
 
-Github Pages: poiesiseducation.github.io
+Github Pages: https://poiesiseducation.github.io/
 
 Netlify: https://kind-babbage-e33ed0.netlify.app
 
